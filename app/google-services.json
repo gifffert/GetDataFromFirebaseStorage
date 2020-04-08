@@ -1,0 +1,188 @@
+{
+  "project_info": {
+    "project_number": "2230212959",
+    "firebase_url": "https://fitnessag-1a06d.firebaseio.com",
+    "project_id": "fitnessag-1a06d",
+    "storage_bucket": "fitnessag-1a06d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2230212959:android:aef956a41b45ac85b7beea",
+        "android_client_info": {
+          "package_name": "ru.embersoft.blockwall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2230212959-r7bet9i6t6nfioshute4mf8v4v6ordci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.embersoft.blockwall",
+            "certificate_hash": "04724648ef65444a3f2554d23269e0a352813372"
+          }
+        },
+        {
+          "client_id": "2230212959-oqjnjocfrhoualeng4s0oilujujd179o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvRSOblnsX-OUhCKEKmu-WfennBLmdkYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2230212959-oqjnjocfrhoualeng4s0oilujujd179o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2230212959:android:8fbcc16e2b8d848fb7beea",
+        "android_client_info": {
+          "package_name": "ru.embersoft.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2230212959-s4t7gh4h3klku0jommsfus6pp21batnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.embersoft.firebasestorage",
+            "certificate_hash": "04724648ef65444a3f2554d23269e0a352813372"
+          }
+        },
+        {
+          "client_id": "2230212959-oqjnjocfrhoualeng4s0oilujujd179o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvRSOblnsX-OUhCKEKmu-WfennBLmdkYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2230212959-oqjnjocfrhoualeng4s0oilujujd179o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2230212959:android:54bf4dacb16f64fa",
+        "android_client_info": {
+          "package_name": "ru.embersoft.fitnessag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2230212959-oqjnjocfrhoualeng4s0oilujujd179o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvRSOblnsX-OUhCKEKmu-WfennBLmdkYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2230212959-oqjnjocfrhoualeng4s0oilujujd179o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2230212959:android:de0aadd11d35a25cb7beea",
+        "android_client_info": {
+          "package_name": "ru.embersoft.getallfromfirebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2230212959-g5fupvftqc8vn3o96ql2h8kpckvfrkg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.embersoft.getallfromfirebasestorage",
+            "certificate_hash": "04724648ef65444a3f2554d23269e0a352813372"
+          }
+        },
+        {
+          "client_id": "2230212959-oqjnjocfrhoualeng4s0oilujujd179o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvRSOblnsX-OUhCKEKmu-WfennBLmdkYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2230212959-oqjnjocfrhoualeng4s0oilujujd179o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2230212959:android:04a2a6d01dd6d3fdb7beea",
+        "android_client_info": {
+          "package_name": "ru.embersoft.getdatafromfirebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2230212959-kb3ovm6nlnq7dchdh6ia4rng1j43lehv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.embersoft.getdatafromfirebasestorage",
+            "certificate_hash": "04724648ef65444a3f2554d23269e0a352813372"
+          }
+        },
+        {
+          "client_id": "2230212959-oqjnjocfrhoualeng4s0oilujujd179o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvRSOblnsX-OUhCKEKmu-WfennBLmdkYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2230212959-oqjnjocfrhoualeng4s0oilujujd179o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
